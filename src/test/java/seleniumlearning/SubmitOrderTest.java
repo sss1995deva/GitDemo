@@ -17,6 +17,8 @@ import SeleniumFrameworkDesign.testcomponent.BaseTest;
 
 //Commanad for running maven project from commandlin : mvn test -PRegression
 //Command for running maven project from commaandline by global properties : mvn test -PErrorValidation -Dbrowser=edge
+// We learn about Jenkins and Git 
+// Git is is different from Githu.
 public class SubmitOrderTest extends BaseTest {
 
 	// String productName = "ZARA COAT 3";
